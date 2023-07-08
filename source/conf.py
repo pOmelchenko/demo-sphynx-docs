@@ -17,6 +17,7 @@ release = 'v0.0.0'
 extensions = [
     'sphinx_rtd_theme',
     'sphinx_copybutton',
+    'sphinxcontrib.mermaid',
 ]
 
 templates_path = ['_templates']
